@@ -25,7 +25,7 @@ section {
 }
 
 section:not(:first-child) {
-    margin-top: 1rem; /* Adjust the margin as desired */
+    margin-top: 1rem; 
 }
 
 img {
@@ -85,7 +85,6 @@ footer {
 #contact {
     text-align: center;
 }
-/* Styling the header */
 #header {
     text-align: center;
     background-color: #333;
