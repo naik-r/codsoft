@@ -1,0 +1,174 @@
+.cta-section {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.cta-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.contact-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contact-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.contact-section form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-section form input,
+.contact-section form textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-section form textarea {
+    height: 120px;
+}
+
+.contact-section form .btn {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #f00; 
+}
+
+.hero-section {
+
+    background-color: #f0f0f0;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:black;
+}
+
+.hero-content {
+    max-width: 600px;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f00; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #d00;
+}
+
+.features-section {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+    background-color: #f9f9f9; 
+}
+
+.feature {
+    max-width: 300px;
+    text-align: center;
+    margin: 0 20px;
+}
+
+.feature i {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #f00; 
+}
+
+.feature h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.feature p {
+    font-size: 1.2rem;
+}
+
+
+.cta-section {
+    position: relative;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 40px 0;
+    background-position: center;
+}
+
+.cta-content {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.cta-section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.cta-section p {
+    font-size: 1.2rem;
+}
