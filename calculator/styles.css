@@ -39,7 +39,6 @@ body {
   button:hover {
     background-color: #e0e0e0;
   }
-/* ... Rest of the CSS styles ... */
 
 button.operator[value="+"]:after {
   content: "+";
